@@ -40,3 +40,11 @@
 .main-input::placeholder{
   color: #444;
 }
+.coin-container{
+    background-color: rgb(230, 230, 247);
+}
+.coin-row{
+    border-radius: 10px;
+    padding: 10px;
+}
+
